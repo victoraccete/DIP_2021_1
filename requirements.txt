@@ -1,0 +1,10 @@
+tensorflow==1.14.0
+keras
+scikit-learn
+pandas
+numpy
+requests
+Pillow
+gdown
+jupyter
+tabulate
